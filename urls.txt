@@ -1,4 +1,3 @@
-http://backend.course/Adrian
-http://backend.course/"AdrianHredil"&"Adron4ik"&"Fei-21"&"Subgroup-1"
-http%3A%2F%2Fbackend%2Ecourse%2F%22AdrianHredil%22%26%22Adron4ik%22%26%22Fei%2D21%22%26%22Subgroup%2D1%22
-
+http://backend.course#Adon4ik
+http://backend.course?name=%22%D0%93%D1%80%D0%B5%D0%B4%D1%96%D0%BB%D1%8C%20%D0%90%D0%B4%D1%80%D1%96%D0%B0%D0%BD%22&github_name=Adron4ik&group=%22%D0%A4%D0%95%D0%86-21%D1%81%22&subgroup=%22%D0%9F%D1%96%D0%B4%D0%B3%D1%80%D1%83%D0%BF%D0%B0%201%22
+https://bank.gov.ua/NBU_ovdp?json
